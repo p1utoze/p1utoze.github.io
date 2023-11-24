@@ -4,10 +4,10 @@
             <Prompt />(c) PRAV. All rights reserved 2023.
         </p>
         <p class="m-30">
-            <span><a href="https://github.com/praneethravuri" target="_blank">Github</a></span> /
-            <span><a href="https://www.linkedin.com/in/praneeth-ravuri2500/" target="_blank">LinkedIn</a></span> /
-            <span><a href="mailto:pravdev10@gmail.com">Email</a></span> /
-            <span><a href="https://drive.google.com/file/d/1--exWdOUI9WFkrSj9p7ZjV9YUbxgaYtU/view?usp=sharing"
+            <span><a href="https://github.com/p1utoze" target="_blank">Github</a></span> /
+            <span><a href="https://www.linkedin.com/in/adithya-awati-87b7541a3/" target="_blank">LinkedIn</a></span> /
+            <span><a href="mailto:aditya.n.awati@gmail.com">Email</a></span> /
+            <span><a href="https://uploadnow.io/s/b9321c26-4ce3-4ed7-8d87-3206bd4c00b3?o=t"
                     target="_blank">Resume</a></span>
         </p>
     </div>
