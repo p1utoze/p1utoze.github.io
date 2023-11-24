@@ -104,7 +104,7 @@ export default {
       } else if (this.inputValue.toLowerCase().trim() === "repo") {
         const command = this.inputValue.toLowerCase().trim();
         this.addToCommandHistory(command);
-        window.open("https://github.com/praneethravuri/prav-terminal", "_blank");
+        window.open("https://github.com/p1utoze", "_blank");
       }
       else {
         const command = this.inputValue.toLowerCase().trim();
