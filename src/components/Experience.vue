@@ -18,34 +18,14 @@ export default {
         return {
             experience: [
                 {
-                    company: "Cognizant",
-                    position: "Software Development Intern",
-                    location: "Hyderabad, India",
-                    dateRange: "Jan. 2022 - Jun. 2022",
+                    company: "CellStrat AI",
+                    position: "Machine Learning Intern",
+                    location: "Bengaluru, India",
+                    dateRange: "Dec. 2022 - Feb. 2023",
                     content: [
-                        "Developed responsive and user-friendly web application interfaces using front-end technologies and frameworks, achieving a remarkable 34% reduction in latency",
-                        "Developed and maintained enterprise web applications, leveraging RESTful APIs and CDNs to achieve a notable 30% improvement in system performance."
-                    ]
-                },
-                {
-                    company: "Stige",
-                    position: "Frontend Intern",
-                    location: "Hyderabad, India",
-                    dateRange: "Aug. 2021 - Oct. 2021",
-                    content: [
-                        "Implemented front-end performance optimizations, including lazy loading and code minification, resulting in a significant 15 % reduction in the website's overall file size",
-                        "Collaborated with UX designers to ensure seamless compatibility between design elements and application programming interfaces, guaranteeing optimal product functionality"
-                    ]
-                },
-                {
-                    company: "IEEE GRIET SB",
-                    position: "Web Developer",
-                    location: "Hyderabad, India",
-                    dateRange: "Aug. 2019 - Dec. 2021",
-                    content: [
-                        "Orchestrated a 5-person team in overhauling the IEEE student body website, elevating functionality and design.",
-                        " Successfully recovered lost data, reinstating critical information for the student community."
-                    ]
+                        "Leveraged cloud-based platform to develop and deploy machine learning models efficiently",
+                        "Designed and implemented inference endpoints using RESTful APIs services on the platform seamlessly.",
+                        "Built robust machine learning models for consumer complaint classification and customer lifetime value prediction, enhancing customer experience and marketing strategies."                    ]
                 }
             ]
         };
@@ -64,6 +44,7 @@ export default {
 
 .main-content-heading{
     color: $content-heading-color;
+    text-shadow: 0 0 3.5px $content-heading-color;
 }
 
 .generate-exp{

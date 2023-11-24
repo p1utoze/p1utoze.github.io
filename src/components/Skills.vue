@@ -28,6 +28,6 @@ export default {
 
 .main-content-heading{
     color: $content-heading-color;
-    text-shadow: 0 0 5px $content-heading-color;
+    text-shadow: 0 0 3.5px $content-heading-color;
 }
 </style>
