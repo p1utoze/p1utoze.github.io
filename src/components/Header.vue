@@ -13,8 +13,9 @@
     </div>
 
     <div class="ascii">
-        <p>A retro terminal themed portfolio website by...</p>
+        <h4 style="color: #0fa8cd">Hey, hi, howdyyy! I'm, </h4>
         <pre id="ascii-art">{{ name }}</pre>
+        <h4 style="color: #0fa8cd">Welcome to my Linux style terminal portfolio.</h4>
     </div>
 
     <div class="instructions">
