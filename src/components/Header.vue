@@ -13,7 +13,7 @@
     </div>
 
     <div>
-        <img src="../assets/ascii-art.png" alt="Profile" width="500" height="500">
+        <img src="../assets/ascii-art-ai.png" alt="Profile" width="210" height="200">
     </div>
 
     <div class="ascii">
