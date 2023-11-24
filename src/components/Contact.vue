@@ -10,10 +10,11 @@ export default {
     data() {
         return {
             contactInfo: [
-                { contactName: "Github", contactLink: "https://github.com/praneethravuri" },
-                { contactName: "LinkedIn", contactLink: "https://www.linkedin.com/in/praneeth-ravuri2500/" },
-                { contactName: "Email", contactLink: "pravdev10@gmail.com" },
-                { contactName: "Resume", contactLink: "https://drive.google.com/file/d/1--exWdOUI9WFkrSj9p7ZjV9YUbxgaYtU/view?usp=sharing" },
+                { contactName: "Email", contactLink: "aditya.n.awati@gmail.com" },
+                { contactName: "Github", contactLink: "https://github.com/p1utoze" },
+                { contactName: "LinkedIn", contactLink: "https://www.linkedin.com/in/adithya-awati-87b7541a3/" },
+                { contactName: "Kaggle", contactLink: "https://www.kaggle.com/adithyaawati"},
+                { contactName: "Resume", contactLink: "https://uploadnow.io/s/b9321c26-4ce3-4ed7-8d87-3206bd4c00b3?o=t" },
             ],
         };
     },
@@ -33,6 +34,7 @@ export default {
 
 .main-content-heading{
     color: $content-heading-color;
+    text-shadow: 0 0 5px $content-heading-color;
 }
 
 </style>
