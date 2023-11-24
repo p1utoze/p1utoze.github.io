@@ -17,7 +17,7 @@ export default defineConfig({
             purpose : "any maskable"
           }
         ],
-        "theme_color": "#171717",
+        // "theme_color": "#171717",
       },
     })
   ],
