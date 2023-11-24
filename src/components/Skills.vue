@@ -11,11 +11,12 @@ export default {
     data() {
         return {
             skills: [
-                { skillType: "Core", skillsList: ["Python", "Javascript", "HTML", "CSS", "C"] },
-                { skillType: "Frameworks", skillsList: ["Node.js", "Express.js", "Vue.js", "jQuery", "Scss", "Bootstrap", "Flask"] },
-                { skillType: "Databases", skillsList: ["MongoDB", "MySQL"] },
-                { skillType: "Tools", skillsList: ["Git", "Github", "VS Code", "Pycharm", "Jupyter"] },
-                { skillType: "Miscellaneous", skillsList: ["Zorba", "JSONiq"] },
+                { skillType: "Languages", skillsList: ["Python", "C", "C++", "Bash", "Java", "HTML", "CSS", "SQL", "RESTful"] },
+                { skillType: "Frameworks", skillsList: ["Pytorch", "Tensorflow", "Optuna", "Scikit-Learn", "Pandas", "FastAPI", "Langchain", "Docker", "Scrapy", "Seaborn", "Plotly"] },
+                { skillType: "Databases", skillsList: ["MongoDB", "MySQL", "PostgreSQL", "MariaDB", "SkySQL", "CassandraDB", "redis", "DeepLake", "Pinecone"] },
+                { skillType: "Tools", skillsList: ["Git", "RPA", "CoPilot", "Obsidian", "Discord", "GitPod"] },
+                { skillType: "Platforms", skillsList: ["GitHub", "AWS", "Azure", "Neptune", "Linux", "Firebase", "Tableau", "WnB", "Gradio", "Linux", "Windows", "streamlit", "HuggingFace"]},
+                { skillType: "IDE", skillsList: ["VSCode", "IntelliJ Idea", "PyCharm", "Jupyter", "Eclipse", "VIM", "Nano"]},
             ]
         }
     }
