@@ -38,5 +38,6 @@ p {
 
 .content-heading{
   color: $content-heading-color;
+  text-shadow: 0 0 5px $content-heading-color;
 }
 </style>
