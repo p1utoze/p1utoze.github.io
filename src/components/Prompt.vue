@@ -1,8 +1,8 @@
 <template>
     <span id="guest">guest</span>
     <span>@</span>
-    <span id="website">prav.dev</span>
-    <span>:$ ~</span>
+    <span id="website">plutoze.dev</span>
+    <span>:~$ </span>
 </template>
   
 

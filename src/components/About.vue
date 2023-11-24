@@ -1,6 +1,6 @@
 <template>
     <div>
-        <p>My name is <a href="https://www.linkedin.com/in/praneeth-ravuri2500/" target="_blank">Praneeth Ravuri</a>, and I love <a href="https://github.com/praneethravuri" target="_blank">developing websites and software engineering</a>. I began my journey in 2020 during
+        <p>My name is <a href="https://www.linkedin.com/in/praneeth-ravuri2500/" target="_blank">Adithya Awati</a>, and I love <a href="https://github.com/praneethravuri" target="_blank">developing websites and software engineering</a>. I began my journey in 2020 during
             the COVID lockdown, starting with Python and creating small projects. I quickly gained a strong understanding of
             the language and used it to build bots for scraping e-commerce websites.
             <br>
@@ -10,7 +10,7 @@
             <br>
             With <a href="https://drive.google.com/file/d/1AiUdUmqhrWz8wlmGVeOhDD2Pr5CBxW7C/view" target="_blank">two internships</a> in software and web development under my belt, I have now advanced to developing full-stack
             applications with diverse use cases. I am driven by my passion for web development and actively seeking exciting
-            full-time opportunities in the field. <a href="mailto:prav2500@gmail.com">Feel free to reach out to me</a> through my inbox for networking and
+            full-time opportunities in the field. <a href="mailto:aditya.n.awati@gmail.com">Feel free to reach out to me</a> through my inbox for networking and
             connections.
         </p>
     </div>

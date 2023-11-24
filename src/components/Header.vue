@@ -1,7 +1,7 @@
 <template>
     <div class="banner-text">
         <p>
-            <Prompt />(c) PRAV. All rights reserved 2023.
+            <Prompt /> Loading site...
         </p>
         <p class="m-30">
             <span><a href="https://github.com/p1utoze" target="_blank">Github</a></span> /
