@@ -12,6 +12,10 @@
         </p>
     </div>
 
+    <div>
+        <img src={{ profile-pic }} alt="Profile">
+    </div>
+
     <div class="ascii">
         <h4 style="color: #0fa8cd">Hey, hi, howdyyy! I'm, </h4>
         <pre id="ascii-art">{{ name }}</pre>

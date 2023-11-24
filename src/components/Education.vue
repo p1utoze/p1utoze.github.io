@@ -1,5 +1,5 @@
 <template>
-    <div class="m-30" v-for="edu in eduction" :key="edu.institution">
+    <div class="m-30" v-for="edu in education" :key="edu.institution">
         <p class="main-content-heading">{{ edu.institution }}</p>
         <p>{{ edu.degree }} | {{ edu.dateRange }}</p>
     </div>
@@ -10,7 +10,7 @@ export default {
     name: "Education",
     data() {
         return {
-            eduction: [
+            education: [
                 { institution: "The Coding School", degree: "Quantum Computing- QubitxQubit", dateRange: "2023 ~ 2024" },
                 { institution: "Dayananda Sagar College of Engineering", degree: "Bachelor of Engineering- AIML", dateRange: "2021 ~ 2025" }
             ]
