@@ -11,8 +11,8 @@ export default {
     data() {
         return {
             eduction: [
-                { institution: "George Mason University", degree: "Master of Science - MS, Computer Science", dateRange: "2022 ~ 2024" },
-                { institution: "Gokaraju Rangaraju Institute of Engineering and Technology", degree: "Bachelor of Technology - BTech, Computer Science", dateRange: "2018 ~ 2022" }
+                { institution: "The Coding School", degree: "Quantum Computing- QubitxQubit", dateRange: "2023 ~ 2024" },
+                { institution: "Dayananda Sagar College of Engineering", degree: "Bachelor of Engineering- AIML", dateRange: "2021 ~ 2025" }
             ]
         }
     }
