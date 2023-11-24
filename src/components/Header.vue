@@ -13,7 +13,7 @@
     </div>
 
     <div>
-        <img src={{ profile-pic }} alt="Profile">
+        <img src="../assets/ascii-art.png" alt="Profile" width="500" height="500">
     </div>
 
     <div class="ascii">
