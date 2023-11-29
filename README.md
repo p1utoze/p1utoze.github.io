@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://p1utoze.github.io" target="_blank">
-<img alt = "website preview" src = "./banner.png">
+<img alt = "website preview" src = "./src/assets/webpage_preview.png">
 </a>
 </p>
 
